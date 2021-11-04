@@ -298,8 +298,8 @@ INSERT INTO `tblvehicles` (`id`, `VehiclesTitle`, `VehiclesBrand`, `VehiclesOver
 (1, 'M8', 2, 'More contemporary with improved features and performance.', 390, 'Petrol', 2016, 7, 'knowledge_base_bg.jpg', '20210523_145633.jpg', 'phpgurukul-1.png', 'social-icons.png', '', 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, '2021-10-19 11:46:23', '2021-10-20 18:38:13'),
 (2, 'X5', 2, 'One of the favourites in the luxury SUV segment.', 840, 'CNG', 2018, 4, 'car_755x430.png', 'looking-used-car.png', 'banner-image.jpg', 'about_services_faq_bg.jpg', '', 1, 1, 1, 1, 1, 1, 1, NULL, 1, 1, NULL, NULL, '2021-10-19 16:16:17', '2021-10-21 16:57:11'),
 (3, 'Macan', 4, 'A fresh set of cosmetic and feature updates.', 560, 'CNG', 2012, 5, 'featured-img-3.jpg', 'dealer-logo.jpg', 'img_390x390.jpg', 'listing_img3.jpg', '', 1, 1, 1, 1, 1, 1, NULL, 1, 1, NULL, NULL, NULL, '2021-10-19 16:18:20', '2021-10-20 18:40:11'),
-(4, 'Swift Dzire', 1, 'Now comes with next-generation turbocharged Ingenium diesel engine. ', 550, 'CNG', 2012, 5, 'featured-img-3.jpg', 'featured-img-1.jpg', 'featured-img-1.jpg', 'featured-img-1.jpg', '', 1, 1, 1, 1, 1, 1, 1, 1, 1, NULL, NULL, NULL, '2021-10-19 16:18:43', '2021-10-20 18:44:12'),
-(5, 'Etios', 5, 'Comfortable seats, frugal engines and necessary safety features.', 250, 'Petrol', 2019, 7, 'car_755x430.png', NULL, NULL, NULL, NULL, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, '2021-10-20 17:57:09', '2021-10-21 16:56:43');
+(4, 'Swift Dzire', 1, 'Now comes with next-generation turbocharged Ingenium diesel engine. ', 550, 'CNG', 2012, 5, 'featured-img-1.jpg', 'featured-img-3.jpg', 'featured-img-1.jpg', 'featured-img-3.jpg', '', 1, 1, 1, 1, 1, 1, 1, 1, 1, NULL, NULL, NULL, '2021-10-19 16:18:43', '2021-10-20 18:44:12'),
+(5, 'Etios', 5, 'Comfortable seats, frugal engines and necessary safety features.', 250, 'Petrol', 2019, 7, 'etios.png', 'etios2.jpg', 'etios2.jpg', 'etios3.jpg', 'etios4.jpg', 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, '2021-10-20 17:57:09', '2021-10-21 16:56:43');
 
 --
 -- Indexes for dumped tables
